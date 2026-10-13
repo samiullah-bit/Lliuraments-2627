@@ -1,9 +1,18 @@
-
 # Pràctica 1: Característiques dels llenguatges de marques
 
 ## Descripció
+
+<img width="91" height="34" alt="imatge" src="https://github.com/user-attachments/assets/12e17d56-51c6-473e-a557-3f24c77505fb" />
+
 * **Objectiu:** Aprofundir i posar en pràctica els coneixements adquirits sobre l'ús i les característiques principals dels llenguatges de marques.
+
+<img width="139" height="51" alt="imatge" src="https://github.com/user-attachments/assets/9b6b0c37-7558-4910-8fc1-da696bc5e6d4" />
+
+
 * **Desenvolupament:** En parelles.
+
+ <img width="98" height="39" alt="imatge" src="https://github.com/user-attachments/assets/9532e521-0434-47dc-8274-6e83c09f243d" />
+ 
 * **Lliurament:** A través del Moodle en format presentació (`.odt`, `.ppt`, `.pptx` o `.pdf`).
 
 ---
